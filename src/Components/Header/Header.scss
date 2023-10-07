@@ -1,0 +1,27 @@
+@import '../../style/index.scss';
+
+  .App-header {
+    background-color:  #232536;
+    
+    }
+.trams__list{
+      display: inline;
+      padding-left: 15px;
+      margin-top: 15px;
+    }
+.infor__subtitle{
+      margin: 0;
+      padding: 0;
+    }
+.qwer{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+      }
+.trans__link{
+        color: white;
+        text-decoration: none;
+      }
+.name__text{
+        color: white;
+      }

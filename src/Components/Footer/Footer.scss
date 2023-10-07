@@ -1,0 +1,23 @@
+@import '../../style/index.scss';
+
+  .join__text{
+    color: #6D6E76;
+  }
+  
+  .join{
+    padding-top: 100px;
+    padding-bottom: 15px;
+    display: block;
+    margin: 0 auto;
+    max-width: 380px;
+  }
+  .join__btn{
+    width: 150px;
+    height: 50px;
+  }
+  .join__btn:hover{
+    background-color: #FFD050;
+    border: none;
+    transition-duration: 1s;
+  }
+  
